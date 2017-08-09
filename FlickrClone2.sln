@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{25E769B8-C819-4933-872E-2782558B6BDB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3C90EF37-94D3-43BA-B1A1-5FC6347F7F81}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "FlickrClone2", "src\FlickrClone2\FlickrClone2.xproj", "{F5D18B0C-DD7D-4ABD-BF65-E24490EBD8E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5D18B0C-DD7D-4ABD-BF65-E24490EBD8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D18B0C-DD7D-4ABD-BF65-E24490EBD8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D18B0C-DD7D-4ABD-BF65-E24490EBD8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D18B0C-DD7D-4ABD-BF65-E24490EBD8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F5D18B0C-DD7D-4ABD-BF65-E24490EBD8E2} = {25E769B8-C819-4933-872E-2782558B6BDB}
+	EndGlobalSection
+EndGlobal
